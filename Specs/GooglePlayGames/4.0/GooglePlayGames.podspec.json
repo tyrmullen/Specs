@@ -1,6 +1,6 @@
 {
   "name": "GooglePlayGames",
-  "version": "4.0",
+  "version": "4.1.4.1",
   "summary": "Google Play Games iOS SDK.",
   "description": "The Play Games services SDK provides cross-platform Game services that lets you easily integrate popular gaming features such as achievements, leaderboards, quests, saved games, and multiplayer to your tablet and mobile games.",
   "homepage": "https://developers.google.com/games/services/ios/quickstart",
@@ -10,7 +10,7 @@
   },
   "authors": "Google Inc.",
   "source": {
-    "http": "https://developers.google.com/games/services/downloads/gpg-cpp-sdk.v1.4.zip"
+    "http": "https://developers.google.com/games/services/downloads/gpg-cpp-sdk.v1.4.1.zip"
   },
   "platforms": {
     "ios": null
@@ -32,7 +32,7 @@
     "CoreTelephony"
   ],
   "xcconfig": {
-    "OTHER_LDFLAGS": "-lc++ -lz"
+    "OTHER_LDFLAGS": "-ObjC -lc++ -lz"
   },
   "dependencies": {
     "google-plus-ios-sdk": [
