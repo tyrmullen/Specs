@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "Google/SignIn": [
-      ">= 2.2"
+      ">= 1.0"
     ]
   },
   "requires_arc": true
