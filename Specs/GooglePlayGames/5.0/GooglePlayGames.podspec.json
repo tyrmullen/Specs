@@ -37,6 +37,9 @@
   "dependencies": {
     "Google/SignIn": [
       ">= 1.0"
+    ],
+    "GooglePlusOpenSource": [
+      ">= 1.7.1"
     ]
   },
   "requires_arc": true
