@@ -10,7 +10,7 @@
   },
   "authors": "Google Inc.",
   "source": {
-    "http": "https://developers.google.com/games/services/downloads/gpg-cpp-sdk.v1.4.1.zip"
+    "http": "https://developers.google.com/games/services/downloads/gpg-cpp-sdk.v2.0.zip"
   },
   "platforms": {
     "ios": null
