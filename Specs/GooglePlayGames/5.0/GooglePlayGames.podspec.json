@@ -13,7 +13,7 @@
     "http": "https://developers.google.com/games/services/downloads/gpg-cpp-sdk.v2.0.zip"
   },
   "platforms": {
-    "ios": null
+    "ios": "7.0"
   },
   "vendored_frameworks": "gpg-cpp-sdk/ios/gpg.framework",
   "source_files": "gpg-cpp-sdk/ios/gpg.framework/Versions/A/Headers/*.h",
@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "Google/SignIn": [
-      ">= 1.0"
+      ">= 2.0"
     ],
     "GooglePlusOpenSource": [
       ">= 1.7.1"
