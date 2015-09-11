@@ -35,7 +35,7 @@
     "OTHER_LDFLAGS": "-ObjC -lc++ -lz"
   },
   "dependencies": {
-    "Google/SignIn": [
+    "GoogleSignIn": [
       ">= 2.0"
     ],
     "GooglePlusOpenSource": [
