@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "GoogleSignIn": [
-      ">= 2.0"
+      "~> 2.2.0"
     ],
     "GooglePlusOpenSource": [
       ">= 1.7.1"
